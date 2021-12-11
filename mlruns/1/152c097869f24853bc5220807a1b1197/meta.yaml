@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/julianfreedberg/Documents/uci/cs-274e/project/MusicGAN/mlruns/1/152c097869f24853bc5220807a1b1197/artifacts
+end_time: 1638309048596
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 152c097869f24853bc5220807a1b1197
+run_uuid: 152c097869f24853bc5220807a1b1197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1638309048278
+status: 3
+tags: []
+user_id: julianfreedberg
